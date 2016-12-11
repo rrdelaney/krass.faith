@@ -1,0 +1,32 @@
+.list {
+  margin-left: 4rem !important;
+  padding-left: 2rem !important;
+  border-left: hotpink 4px solid !important;
+  font-size: 36px !important;
+  font-style: italic !important;
+}
+
+.item {
+  padding-bottom: 4rem !important;
+  color: rgb(204, 204, 204) !important;
+}
+
+h1.header {
+  padding-top: 2rem !important;
+  text-align: center !important;
+  font-size: 48px !important;
+  color: white !important;
+}
+
+.divider {
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+
+.container {
+  background-color: rgb(45, 45, 45);
+}
+
+.icon.quote {
+  color: rgb(0, 178, 148) !important;
+}
