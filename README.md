@@ -1,0 +1,2 @@
+# krass.faith
+Krass Quotes
